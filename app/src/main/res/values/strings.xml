@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">DocAdmin</string>
+    <string name="login">Login\n</string>
+
+    <string name="find_Cure">Find Cure</string>
+    <string name="app_logo">appLogo</string>
+    <string name="DOCADMIN">Doc Admin</string>
+    <string name="SignUP">Sign Up</string>
+</resources>
