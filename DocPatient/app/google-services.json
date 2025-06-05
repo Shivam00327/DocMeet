@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "292695267731",
+    "project_id": "docstep-7dcbb",
+    "storage_bucket": "docstep-7dcbb.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:292695267731:android:2d61fcc54b40058f54b066",
+        "android_client_info": {
+          "package_name": "com.example.docadmin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBffChhbTiHU8ULpEEbBzWNobsdCdQp3GE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:292695267731:android:760c8358e39e57a454b066",
+        "android_client_info": {
+          "package_name": "com.example.docpatient"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBffChhbTiHU8ULpEEbBzWNobsdCdQp3GE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

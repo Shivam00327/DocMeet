@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">DocPatient</string>
+    <string name="DocPatient">Doc Patient</string>
+    <string name="find_Cure">Find Cure</string>
+    <string name="app_logo">app Logo\n</string>
+    <string name="login">Login\n</string>
+    <string name="SignUP">Sign Up\n</string>
+</resources>
